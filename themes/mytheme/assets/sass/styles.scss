@@ -6,4 +6,8 @@ body {
 .jumbotron {
     padding: 4rem 2rem;
     margin-bottom: 2rem;
+    border-radius: 0px 0px 50% 50%;
+    background: rgb(255,255,255) !important;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(233,196,106,1) 0%, rgba(244,162,97,1) 100%) !important;
+    color: white;
 }

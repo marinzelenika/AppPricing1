@@ -18,12 +18,14 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
 
 <div class="demo">
     <div class="container">
+        <div class="tab-content">
+        <div class="tab-pane fade show active" id="monthly">
         <div class="row d-flex aligns-items-center justify-content-center">
             {{ range first 1 . }}
             <div class="col-md-3 col-sm-6">
                 <div class="pricingTable">
                     <div class="pricingTable-header">
-                        <i class="fa fa-hand-o-down"></i>
+                        <i class="fa fa-smile-o"></i>
                         {{ range first 1 .PricingPlans }} {{ range .PaymentScheduleList }}
                         <div class="price-value"> ${{ .SubscriptionPeriodCharge }} <span class="month">{{ $.Page.Params.p3rm0nth }}</span> </div>
                         {{ end }} {{ end }}
@@ -133,8 +135,150 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
                     </div>
                 </div>
             </div>
+            </div>
+        </div>
+
+    <div class="tab-pane fade" id="yearly">
+        <div class="row d-flex aligns-items-center justify-content-center">
+            {{ range first 1 . }}
+            <div class="col-md-3 col-sm-6">
+                <div class="pricingTable">
+                    <div class="pricingTable-header">
+                        <i class="fa fa-hand-o-down"></i>
+                        {{ range first 1 .PricingPlans }} {{ range .PaymentScheduleList }}
+                        <div class="price-value"> ${{ .SubscriptionPeriodCharge }} <span class="month">{{ $.Page.Params.p3ry3ar }}</span> </div>
+                        {{ end }} {{ end }}
+                    </div>
+                    <h3 class="heading">{{ .Name }}</h3>
+                    {{end}}
+                    <div class="pricing-content">
+                        <ul>
+                            <li>
+             {{ readFile "static/images/check2.svg" | safeHTML }} {{ $.Page.Params.card1text1 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text2 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text3 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text4 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text5 }}
+            </li>
+                        </ul>
+                    </div>
+                    <div class="pricingTable-signup">
+                        <a href="#">{{ $.Page.Params.s1gnup }}</a>
+                    </div>
+                </div>
+            </div>
+            {{ range after 1 . }}
+            <div class="col-md-3 col-sm-6">
+                <div class="pricingTable green">
+                    <div class="pricingTable-header">
+                        <i class="fa fa-diamond"></i>
+                        {{ range after 1 .PricingPlans }} {{ range .PaymentScheduleList }}
+                        <div class="price-value"> ${{ .SubscriptionPeriodCharge }} <span class="month">{{ $.Page.Params.p3ry3ar }}</span> </div>
+                        {{ end }} {{ end }}
+                    </div>
+                    <h3 class="heading">{{ .Name }}</h3>
+                    {{ end }}
+                    <div class="pricing-content">
+                        <ul>
+                            <li>
+             {{ readFile "static/images/check2.svg" | safeHTML }} {{ $.Page.Params.card1text1 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text2 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text3 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card2text4 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text5 }}
+            </li>
+                        </ul>
+                    </div>
+                    <div class="pricingTable-signup">
+                        <a href="#">{{ $.Page.Params.s1gnup }}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="pricingTable blue">
+                    <div class="pricingTable-header">
+                        <i class="fa fa-briefcase"></i>
+                        <div class="price-value"> {{ $.Page.Params.cust0mpr1ce }} <span class="month">{{ $.Page.Params.p3ry3ar }}</span> </div>
+                    </div>
+                    <h3 class="heading">Business</h3>
+                    <div class="pricing-content">
+                        <ul>
+                            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card3text1 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card3text2 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card3text3 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card3text4 }}
+            </li>
+            <li>
+              {{ readFile "static/images/check2.svg" | safeHTML }}
+              {{ $.Page.Params.card1text2 }}
+            </li>
+                        </ul>
+                    </div>
+                    <div class="pricingTable-signup">
+                        <a href="#">{{ $.Page.Params.s1gnup }}</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-</div>
+           </div>
+    </div>
+    </div>
+    
+
+
+    
+
 {{ end }}{{ end }} {{ end }} {{ end }}
-<p class="text-center mb-5">{{ .Params.byUpl0ad1ng }} <a href="https://about.aspose.app/legal/tos/" style="color: #ff4b4b">{{ .Params.l1nk1text }}</a>  {{ .Params.l1nk3d }} <a href="https://about.aspose.app/legal/privacy-policy/" style="color: #ff4b4b">{{ .Params.l1nk2text }}</a> </p>
+<p class="text-center mb-5 mt-4">{{ .Params.byUpl0ad1ng }} <a href="https://about.aspose.app/legal/tos/" style="color: #ff4b4b">{{ .Params.l1nk1text }}</a>  {{ .Params.l1nk3d }} <a href="https://about.aspose.app/legal/privacy-policy/" style="color: #ff4b4b">{{ .Params.l1nk2text }}</a> </p>
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var tabList = [].slice.call(document.querySelectorAll("#myTab a"));
+    tabList.forEach(function (tab) {
+      var tabTrigger = new bootstrap.Tab(tab);
+
+      tab.addEventListener("click", function (event) {
+        event.preventDefault();
+        tabTrigger.show();
+      });
+    });
+  });
+</script>
