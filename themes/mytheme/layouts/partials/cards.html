@@ -144,7 +144,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
             <div class="col-md-3 col-sm-6">
                 <div class="pricingTable">
                     <div class="pricingTable-header">
-                        <i class="fa fa-hand-o-down"></i>
+                        <i class="fa fa-smile-o"></i>
                         {{ range first 1 .PricingPlans }} {{ range .PaymentScheduleList }}
                         <div class="price-value"> ${{ .SubscriptionPeriodCharge }} <span class="month">{{ $.Page.Params.p3ry3ar }}</span> </div>
                         {{ end }} {{ end }}
