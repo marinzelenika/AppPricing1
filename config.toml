@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jazzy-biscochitos-6d6a03.netlify.app/'
 languageCode = 'en-us'
 title = 'Aspose.app Pricing'
 theme = 'mytheme'
