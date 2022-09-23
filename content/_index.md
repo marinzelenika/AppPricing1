@@ -1,6 +1,6 @@
 ---
 t1tle: Aspose.app Pricing
-head1ng: Choose the Right Plan for Your Needs
+head1ng: Choose Plan to Fit Your Needs
 m0nthly: Monthly
 y3arly: Yearly
 sav3: Save up to 43% on annual plans
@@ -18,6 +18,7 @@ card3text2: Custom Contract
 card3text3: Custom limits
 card3text4: Dedicated customer success
 s1gnup: SIGN UP
+c0ntact2s: CONTACT US
 byUpl0ad1ng: By uploading your files or using our service you agree with our
 l1nk1text: Terms of Service
 l1nk2text: Privacy Policy
