@@ -27,9 +27,13 @@ l1m1tati0ns: Plan Limit
 questi0n1: Do I need to enter credit card details to evaluate?
 answ3r1: No, you can use the trial plan without entering your credit card details.
 questi0n2: Can I get a discount?
-answ3r2: Our services are fairly priced so we do not offer any discounts. Read about our discount policy to learn more.
+answ3r2: Our services are fairly priced so we do not offer any discounts. We care about our customers and are always looking for ways to offer them the best value for money. Our pricing plan is fair for both us and consumers so we do not enter into any discount or price negotiations.
 questi0n3: Can I receive technical support when I'm evaluating?
 answ3r3: Yes! Our support teams will be glad to assist. We want to ensure there are no bad surprises after you begin using the product. We provide an online forum that is maintained by our highly trained development staff. Whether you have already purchased or are still evaluating we will always provide timely, helpful assistance.
 questi0n4: Do you include tax in your prices listed on the website or quotes?
 answ3r4: As an Australian company the only tax we apply is GST to those purchasing from Australia. Our prices on the website exclude GST. Our tax invoices for Australian customers include GST.
+questi0n5: How can I pay?
+answ3r5: You can choose to pay your balance at the end of each month by credit card, or pre-pay by crediting your account in advance by bank transfer. All prices are in US dollars (USD). For further details refer to these instructions
+answ3rhyp3rl1nk1: Bank transfer
+answ3rhyp3rl1nk2: Credit card
 ---
