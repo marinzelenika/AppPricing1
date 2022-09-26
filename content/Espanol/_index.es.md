@@ -1,6 +1,10 @@
 ---
 t1tle: Precios de Aspose.app
 
+h0me: Hogar
+
+pr1c1ng: Fijación de precios
+
 head1ng: Elija un plan que se adapte a sus necesidades
 
 m0nthly: Mensual

@@ -1,6 +1,8 @@
 ---
 t1tle: Aspose.app Pricing
 head1ng: Choose Plan to Fit Your Needs
+h0me: Home
+pr1c1ng: Pricing
 m0nthly: Monthly
 y3arly: Yearly
 sav3: Save up to 43% on annual plans

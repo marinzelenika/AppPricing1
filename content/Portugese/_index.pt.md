@@ -1,6 +1,10 @@
 ---
 t1tle: Preços Aspose.app
 
+h0me: Casa
+
+pr1c1ng: Preços
+
 head1ng: Escolha um plano para atender às suas necessidades
 
 m0nthly: Mensal

@@ -1,6 +1,10 @@
 ---
 t1tle: Aspose.app-Preise
 
+h0me: Heimat
+
+pr1c1ng: Preisgestaltung
+
 head1ng: Wählen Sie den Plan, der Ihren Anforderungen entspricht
 
 m0nthly: Monatlich
