@@ -22,7 +22,7 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
         {{ range after 1 . }}{{ range first 1 .PricingPlans }} {{ range after 1 .ProductItemsList }}
         <tbody>
           <tr>
-            <th scope="row" class="text-start">{{ .Name }}</th>
+            <th scope="row" class="text-start">{{ .Name | markdownify }}</th>
             <td><svg class="bi" width="24" height="24"></svg></td>
             <td>{{ .MaxQuantity }} {{ .UnitName }}</td>
             <td><svg class="bi" width="24" height="24"></svg></td>
