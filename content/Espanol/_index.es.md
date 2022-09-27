@@ -31,6 +31,8 @@ card1text5: Sin cargo de suscripción
 
 card2text4: atención al cliente
 
+card2text5: almacenamiento de archivos
+
 card3text1: opciones de pago flexibles
 
 card3text2: contrato personalizado

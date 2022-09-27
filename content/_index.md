@@ -15,6 +15,7 @@ card1text3: No Trial Period
 card1text4: Always Free
 card1text5: No Subscription Charge
 card2text4: Customer support
+card2text5: File storage
 card3text1: Flexible Payment Options
 card3text2: Custom Contract
 card3text3: Custom limits

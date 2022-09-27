@@ -31,6 +31,8 @@ card1text5: Keine Abonnementgebühr
 
 card2text4: Kundensupport
 
+card2text5: Dateispeicher
+
 card3text1: Flexible Zahlungsoptionen
 
 card3text2: Benutzerdefinierter Vertrag

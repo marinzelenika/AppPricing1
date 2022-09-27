@@ -31,6 +31,8 @@ card1text5: Sem Taxa de Assinatura
 
 card2text4: Suporte ao cliente
 
+card2text5: armazenamento de arquivo
+
 card3text1: opções de pagamento flexíveis
 
 card3text2: contrato personalizado
