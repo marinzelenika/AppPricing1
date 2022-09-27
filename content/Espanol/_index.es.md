@@ -49,7 +49,7 @@ l1nk1text: Condiciones de servicio
 
 l1nk2text: Política de privacidad
 
-l1nk3d: y
+l1nk3d: e
 
 l1m1tati0ns: Límite del Plan
 
