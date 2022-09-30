@@ -19,7 +19,7 @@ p3ry3ar: pro Jahr
 
 cust0mpr1ce: Benutzerdefinierter Preis
 
-card1text1: Zugriff auf alle Aspose-Apps
+card1text1: Geschichte der Generationen und Scans
 
 card1text2: Keine Werbung
 
@@ -29,19 +29,19 @@ card1text4: Immer kostenlos
 
 card1text5: Keine Abonnementgebühr
 
-card2text3: Additional generation settings
+card2text3: Zusätzliche Generierungseinstellungen
 
-card2text4: Kundensupport
+card2text4: Zusätzliche Dateiformate
 
-card2text5: Dateispeicher
+card2text5: Zusätzliche QR-Kunst
 
 card3text1: Flexible Zahlungsoptionen
 
 card3text2: Benutzerdefinierter Vertrag
 
-card3text3: Benutzerdefinierte Limits
+card3text3: Zusätzliche QR-Kunst
 
-card3text4: Engagierter Kundenerfolg
+card3text4: Zusätzliche Generierungseinstellungen
 
 s1gnup: MELDEN SIE SICH AN
 

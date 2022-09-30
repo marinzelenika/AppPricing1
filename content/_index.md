@@ -16,10 +16,10 @@ card1text4: Always Free
 card1text5: No Subscription Charge
 card2text4: Additional file formats
 card2text3: Additional generation settings
-card2text5: File storage
+card2text5: Additional QR art
 card3text1: Flexible Payment Options
 card3text2: Custom Contract
-card3text3: Custom limits
+card3text3: Additional QR art
 card3text4: Additional generation settings
 s1gnup: SIGN UP
 c0ntact2s: CONTACT US

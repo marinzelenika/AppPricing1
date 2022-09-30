@@ -19,7 +19,7 @@ p3ry3ar: por año
 
 cust0mpr1ce: Precio personalizado
 
-card1text1: acceso a todas las aplicaciones de Aspose
+card1text1: Historial de generaciones y escaneos.
 
 card1text2: Sin anuncios
 
@@ -29,19 +29,19 @@ card1text4: Siempre Gratis
 
 card1text5: Sin cargo de suscripción
 
-card2text3: Additional generation settings
+card2text3: Configuraciones de generación adicionales
 
-card2text4: atención al cliente
+card2text4: Formatos de archivo adicionales
 
-card2text5: almacenamiento de archivos
+card2text5: Arte QR adicional
 
 card3text1: opciones de pago flexibles
 
 card3text2: contrato personalizado
 
-card3text3: límites personalizados
+card3text3: Arte QR adicional
 
-card3text4: Éxito del cliente dedicado
+card3text4: Configuraciones de generación adicionales
 
 s1gnup: REGISTRARSE
 
