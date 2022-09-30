@@ -55,9 +55,9 @@ l1nk3d: und
 
 l1m1tati0ns: Planlimit
 
-questi0n1: Muss ich zur Bewertung Kreditkartendaten eingeben?
+questi0n1: Sind meine Dateien mit Aspose sicher?
 
-answ3r1: Nein, Sie können den Testplan nutzen, ohne Ihre Kreditkartendaten einzugeben.
+answ3r1: Aspose Apps ermöglicht es Kunden, optional Dateien in den eigenen Speicher von Aspose Apps hochzuladen. Keine dieser Dateien ist anderen Personen als dem Kunden selbst zugänglich. Mit der Aspose App können Kunden Dateien für Gespräche oder andere Dokumentenoperationen hochladen. Diese Richtlinie beschreibt, wie wir mit der Aufbewahrung dieser Dateien umgehen. Alle auf die Website hochgeladenen Dateien werden maximal 24 Stunden aufbewahrt, bevor sie danach automatisch gelöscht werden. Diese Dateien sind nur für die Person zugänglich, die sie hochgeladen hat.
 
 questi0n2: Kann ich einen Rabatt bekommen?
 

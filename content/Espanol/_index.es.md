@@ -55,9 +55,9 @@ l1nk3d: e
 
 l1m1tati0ns: Límite del Plan
 
-questi0n1: ¿Necesito ingresar los datos de la tarjeta de crédito para evaluar?
+questi0n1: ¿Están mis archivos seguros con Aspose?
 
-answ3r1: No, puede usar el plan de prueba sin ingresar los datos de su tarjeta de crédito.
+answ3r1: Aspose Apps permite a los clientes cargar archivos opcionalmente en el propio almacenamiento de Aspose Apps. Ninguno de estos archivos es accesible a ninguna persona que no sea el propio cliente. La aplicación Aspose permite a los clientes cargar archivos para conversaciones u otras operaciones de documentos. Esta política describe cómo tratamos la retención de esos archivos. Todos los archivos cargados en el sitio web se conservan durante un máximo de 24 horas antes de eliminarse automáticamente a partir de entonces. Estos archivos no son accesibles para ninguna otra persona que no sea la persona que los sube.
 
 questi0n2: ¿Puedo obtener un descuento?
 

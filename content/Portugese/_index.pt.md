@@ -55,9 +55,9 @@ l1nk3d: e
 
 l1m1tati0ns: Limite do plano
 
-questi0n1: Preciso inserir os dados do cartão de crédito para avaliar?
+questi0n1: Meus arquivos estão seguros com o Aspose?
 
-answ3r1: Não, você pode usar o plano de avaliação sem inserir os dados do seu cartão de crédito.
+answ3r1: O Aspose Apps permite que os clientes façam upload de arquivos opcionalmente para o próprio armazenamento do Aspose Apps. Nenhum desses arquivos é acessível a qualquer pessoa que não seja o próprio cliente. Aspose App permite que os clientes carreguem arquivos para conversas ou outras operações de documentos. Esta política descreve como tratamos a retenção desses arquivos. Todos os arquivos enviados para o site são retidos por no máximo 24 horas antes de serem excluídos automaticamente. Esses arquivos não podem ser acessados por qualquer pessoa além da pessoa que os carrega.
 
 questi0n2: Posso obter um desconto?
 
