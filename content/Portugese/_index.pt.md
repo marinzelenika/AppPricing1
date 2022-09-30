@@ -29,6 +29,8 @@ card1text4: Sempre grátis
 
 card1text5: Sem Taxa de Assinatura
 
+card2text3: Additional generation settings
+
 card2text4: Suporte ao cliente
 
 card2text5: armazenamento de arquivo

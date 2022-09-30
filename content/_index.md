@@ -9,17 +9,18 @@ sav3: Save up to 43% on annual plans
 p3rm0nth: per month
 p3ry3ar: per year
 cust0mpr1ce: Custom price
-card1text1: Access to All Aspose Apps
+card1text1: History of generations and scans
 card1text2: No ads
 card1text3: No Trial Period
 card1text4: Always Free
 card1text5: No Subscription Charge
-card2text4: Customer support
+card2text4: Additional file formats
+card2text3: Additional generation settings
 card2text5: File storage
 card3text1: Flexible Payment Options
 card3text2: Custom Contract
 card3text3: Custom limits
-card3text4: Dedicated customer success
+card3text4: Additional generation settings
 s1gnup: SIGN UP
 c0ntact2s: CONTACT US
 byUpl0ad1ng: By uploading your files or using our service you agree with our

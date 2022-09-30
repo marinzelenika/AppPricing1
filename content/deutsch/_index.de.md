@@ -29,6 +29,8 @@ card1text4: Immer kostenlos
 
 card1text5: Keine Abonnementgebühr
 
+card2text3: Additional generation settings
+
 card2text4: Kundensupport
 
 card2text5: Dateispeicher
