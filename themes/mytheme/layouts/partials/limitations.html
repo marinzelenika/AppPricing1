@@ -23,9 +23,9 @@ $.Site.Params.url }} {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
         <tbody>
           <tr>
             <th scope="row" class="text-start">{{ .Name | markdownify }}</th>
-            <td><svg class="bi" width="24" height="24"></svg></td>
+            <td><i class="fa fa-question-circle-o" aria-hidden="true"></i></td>
             <td>{{ .MaxQuantity }} {{ .UnitName }}</td>
-            <td><svg class="bi" width="24" height="24"></svg></td>
+            <td><i class="fa fa-question-circle-o" aria-hidden="true"></i></td>
           </tr>
         </tbody>
         {{ end }} {{ end }} {{ end }}
