@@ -27,8 +27,8 @@ l1nk1text: Terms of Service
 l1nk2text: Privacy Policy
 l1nk3d: and
 l1m1tati0ns: Plan Limit
-questi0n1: Do I need to enter credit card details to evaluate?
-answ3r1: No, you can use the trial plan without entering your credit card details.
+questi0n1: Are my files safe with Aspose?
+answ3r1: Aspose Apps allows customers to optionally upload files to Aspose Apps’s own storage. None of these files are accessible to any person other than the customer himself. Aspose App allows customers to upload files for conversation or other document operations. This policy outlines how we treat retention of those files. All files uploaded to the website are retained for a maximum of 24 hours before being deleted automatically thereafter. These files are not accessible to any person other than the person who uploads them.
 questi0n2: Can I get a discount?
 answ3r2: Our services are fairly priced so we do not offer any discounts. We care about our customers and are always looking for ways to offer them the best value for money. Our pricing plan is fair for both us and consumers so we do not enter into any discount or price negotiations.
 questi0n3: Can I receive technical support when I'm evaluating?
