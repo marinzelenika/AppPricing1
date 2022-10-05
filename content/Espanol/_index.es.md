@@ -3,6 +3,18 @@ t1tle: Precios de Aspose.app
 
 h0me: Hogar
 
+pr0d2cts: Productos
+
+p2rch4s3: Compra
+
+b2y: Comprar ahora
+
+s2pp0rt: Apoyo
+
+w3b: Sitio web
+
+ab02t: Sobre
+
 pr1c1ng: Fijación de precios
 
 head1ng: Elija un plan que se adapte a sus necesidades

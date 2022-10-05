@@ -1,5 +1,11 @@
 ---
 t1tle: Aspose.app Pricing
+pr0d2cts: Products
+p2rch4s3: Purchase
+b2y: Buy now
+s2pp0rt: Support
+w3b: Website
+ab02t: About
 head1ng: Choose Plan to Fit Your Needs
 h0me: Home
 pr1c1ng: Pricing

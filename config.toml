@@ -24,7 +24,7 @@ defaultContentLang = 'en'
 [languages]
     [languages.en]
         languageName = "English"
-        languageCode = "en"
+        languageCode = "us"
         contentDir = "content/"
         flag = "flag-us"
         weight = 1
