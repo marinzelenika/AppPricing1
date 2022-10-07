@@ -1,4 +1,4 @@
-baseURL = 'https://dotapppricing.netlify.app/'
+baseURL = 'whitemodepricing.netlify.app'
 languageCode = 'en-us'
 title = 'Aspose.app Pricing'
 theme = 'mytheme'
